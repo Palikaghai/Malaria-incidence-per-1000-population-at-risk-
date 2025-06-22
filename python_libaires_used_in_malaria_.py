@@ -64,3 +64,4 @@ plt.title('Distribution of Malaria Incidence Rates by Region')
 plt.xticks(rotation=90)
 plt.show()
 
+
